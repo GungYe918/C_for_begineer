@@ -13,4 +13,4 @@ MD파일을 볼 수 있는 어플리케이션에서 폴더를 연다.
 
 <br>
 
-Obsidian Download --> (Here)[https://obsidian.md/download]
+Obsidian Download --> [Here](https://obsidian.md/download)
